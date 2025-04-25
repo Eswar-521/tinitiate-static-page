@@ -1,10 +1,9 @@
-// src/components/Footer.jsx
 import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="w-full py-4 text-center bg-gray-100 text-gray-500 text-sm">
-      © 2025 Tinitiate. All rights reserved.
+    <footer className="w-full bg-gray-800 text-white text-center py-4 mt-4 mx-16"> {/* Bottom and side margin */}
+      <p>&copy; 2025 Your Company. All rights reserved.</p>
     </footer>
   );
 };

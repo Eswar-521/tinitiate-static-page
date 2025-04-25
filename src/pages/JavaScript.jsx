@@ -1,2 +1,2 @@
-const JavaScript = () => <h1>Introduction Page</h1>;
+const JavaScript = () => <h1>javascript Page</h1>;
 export default JavaScript;
